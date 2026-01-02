@@ -2,3 +2,5 @@ langchain
 langchain-openai
 ipykernel
 python-dotenv
+tqdm
+pandas

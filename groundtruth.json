@@ -1,0 +1,278 @@
+[
+    {
+      "input": "What is 200 + 395?",
+      "expected_output": "math"
+    },
+    {
+      "input": "What is 111 - 349?",
+      "expected_output": "math"
+    },
+    {
+      "input": "When was Dom Pedro II born?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Tell me a joke about pizza",
+      "expected_output": "joke"
+    },
+    {
+      "input": "20 + 30 * 2 / 10?",
+      "expected_output": "math"
+    },
+    {
+      "input": "What is ten plus twenty four?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Calculate 15 * 8",
+      "expected_output": "math"
+    },
+    {
+      "input": "Quanto é 50 dividido por 2?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Solve: 2^3 + 4 * 5",
+      "expected_output": "math"
+    },
+    {
+      "input": "What's the square root of 144?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Me conte uma piada sobre cachorros",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Conte uma piada em português",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Preciso de uma piada engraçada",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Who was the first president of Brazil?",
+      "expected_output": "history"
+    },
+    {
+      "input": "When did World War II end?",
+      "expected_output": "history"
+    },
+    {
+      "input": "What happened in 1888 in Brazil?",
+      "expected_output": "history"
+    },
+    {
+      "input": "100 - 45 = ?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Me fale uma piada sobre programação",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Qual a raiz quadrada de 64?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Tell me about the French Revolution",
+      "expected_output": "history"
+    },
+    {
+      "input": "Conte uma piada de português",
+      "expected_output": "joke"
+    },
+    {
+      "input": "What is 7 times 9?",
+      "expected_output": "math"
+    },
+    {
+      "input": "When was the Declaration of Independence signed?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Preciso rir, me conte uma piada",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Calculate the area of a circle with radius 5",
+      "expected_output": "math"
+    },
+    {
+      "input": "Who discovered America?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Me dê uma piada sobre comida",
+      "expected_output": "joke"
+    },
+    {
+      "input": "3 + 4 * 2 - 1",
+      "expected_output": "math"
+    },
+    {
+      "input": "What year did Brazil become independent?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Quero uma piada engraçada em português",
+      "expected_output": "joke"
+    },
+    {
+      "input": "What is 25% of 80?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Tell me about ancient Rome",
+      "expected_output": "history"
+    },
+    {
+      "input": "Conte-me uma piada",
+      "expected_output": "joke"
+    },
+    {
+      "input": "12 * 12 =",
+      "expected_output": "math"
+    },
+    {
+      "input": "When did the Berlin Wall fall?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Me faça rir com uma piada",
+      "expected_output": "joke"
+    },
+    {
+      "input": "What is the sum of 45 and 67?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Who was Napoleon Bonaparte?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Piada sobre tecnologia, por favor",
+      "expected_output": "joke"
+    },
+    {
+      "input": "8 / 2 * (2 + 2)",
+      "expected_output": "math"
+    },
+    {
+      "input": "What was the date of the Battle of Waterloo?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Quero ouvir uma piada boa",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Find the value of x if 2x + 5 = 15",
+      "expected_output": "math"
+    },
+    {
+      "input": "When did the Renaissance period begin?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Me conte uma piada de português sobre animais",
+      "expected_output": "joke"
+    },
+    {
+      "input": "What is 3.14 * 10?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Tell me about the history of Brazil",
+      "expected_output": "history"
+    },
+    {
+      "input": "Preciso de uma piada em português agora",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Calculate 1000 / 25",
+      "expected_output": "math"
+    },
+    {
+      "input": "What happened in 1969?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Fale uma piada engraçada",
+      "expected_output": "joke"
+    },
+    {
+      "input": "What is 15 squared?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Who was the leader of the Soviet Union during WWII?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Conte uma piada sobre o dia a dia",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Solve: (10 + 5) * 2 - 8",
+      "expected_output": "math"
+    },
+    {
+      "input": "When was the printing press invented?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Me dê uma piada para alegrar meu dia",
+      "expected_output": "joke"
+    },
+    {
+      "input": "What is the product of 6 and 7?",
+      "expected_output": "math"
+    },
+    {
+      "input": "What was the significance of 1492?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Quero uma piada em português sobre trabalho",
+      "expected_output": "joke"
+    },
+    {
+      "input": "How much is 50 + 25 - 10?",
+      "expected_output": "math"
+    },
+    {
+      "input": "Tell me about the Industrial Revolution",
+      "expected_output": "history"
+    },
+    {
+      "input": "Conte uma piada engraçada em português",
+      "expected_output": "joke"
+    },
+    {
+      "input": "What is 2 to the power of 8?",
+      "expected_output": "math"
+    },
+    {
+      "input": "When did the Cold War end?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Me fale uma piada sobre família",
+      "expected_output": "joke"
+    },
+    {
+      "input": "Calculate the perimeter of a square with side 6",
+      "expected_output": "math"
+    },
+    {
+      "input": "Who wrote the Declaration of Independence?",
+      "expected_output": "history"
+    },
+    {
+      "input": "Preciso de uma piada boa em português",
+      "expected_output": "joke"
+    }
+]
